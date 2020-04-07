@@ -1,0 +1,12 @@
+# Folders to ignore
+.git/
+.idea/
+__pycache__/
+build/
+dist/
+groupy.egg-info/
+venv/
+*.ipynb_checkpoints/
+
+# Files to ignore
+
