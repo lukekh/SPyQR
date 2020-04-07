@@ -5,4 +5,4 @@ SPyQR is an inclusive python project that dreams of allowing all backgrounds to 
 if all you speak is ancient Latin. <3
 
 ## Install SPyQR
-```!pip install SPyQR==0.0.1```
+```!pip install SPyQR```
