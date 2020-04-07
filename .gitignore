@@ -4,7 +4,7 @@
 __pycache__/
 build/
 dist/
-groupy.egg-info/
+SPyQR.egg-info/
 venv/
 *.ipynb_checkpoints/
 
