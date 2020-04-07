@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="SPyQR",
-    version="0.0.1",
+    version="0.0.2",
     author="lukekh",
     author_email="groupython@gmail.com",
     description="A bad python package for bad Romans",

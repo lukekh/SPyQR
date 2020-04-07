@@ -56,7 +56,7 @@ class Roman:
     def __repr__(self):
         def to_RN(n):
             Rdict = {1: "I", 5: "V", 10: "X", 50: "L", 100: "C", 500: "D", 1000: "M"}
-            Sdict = {5: 1, 10: 1, 50: 10, 100: 10, 1000: 100}
+            Sdict = {5: 1, 10: 1, 50: 10, 100: 10, 500: 100, 1000: 100}
             RN = []
             r = n
             l = list(Rdict.keys())
